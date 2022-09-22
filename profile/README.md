@@ -9,7 +9,7 @@
 ### Features
 - 📡 Supports multiple programming languages
 - 🔗 Robust and flexible
-- 🧰 Support possible dependencies in dynamic languages【待确定，动态类型语言或者是弱类型语言】
+- 🧰 Support possible dependencies in weak typing languages
 
 
 ### Supports
