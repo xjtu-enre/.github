@@ -22,9 +22,9 @@
 |    Python  |       3.x       |       9     |    10    |[🔗](https://github.com/xjtu-enre/ENRE-py)
 |    JS/TS    |       2022/4.7       |       17    |    12   |[🔗](https://github.com/xjtu-enre/ENRE-ts)
 
-### Cite us
+<details><summary>Cite us</summary>
 
-- W. Jin, D. Zhong, Y. Cai, R. Kazman and T. Liu, "Evaluating the Impact of Possible Dependencies on Architecture-level Maintainability," in IEEE Transactions on Software Engineering, doi: 10.1109/TSE.2022.3171288. <details><summary>BibTeX</summary>
+- W. Jin, D. Zhong, Y. Cai, R. Kazman and T. Liu, "Evaluating the Impact of Possible Dependencies on Architecture-level Maintainability," in IEEE Transactions on Software Engineering, doi: 10.1109/TSE.2022.3171288. 
 
     ```
     @ARTICLE{
@@ -40,11 +40,9 @@
     }
     ```
 
-</details>
 
 
 - W. Jin, D. Zhong, Z. Ding, M. Fan and T. Liu, "Where to Start: Studying Type Annotation Practices in Python," 2021 36th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2021, pp. 529-541, doi: 10.1109/ASE51524.2021.9678947.
-    <details><summary>BibTeX</summary>
 
     ```
     @INPROCEEDINGS{
@@ -60,9 +58,7 @@
     }
     ```
 
-    </details>
 - Jin, Wuxia et al. “Exploring the Architectural Impact of Possible Dependencies in Python Software.” 2020 35th IEEE/ACM International Conference on Automated Software Engineering (ASE) (2020): 758-770.
-    <details><summary>BibTeX</summary>
 
     ```
     @INPROCEEDINGS{
@@ -78,9 +74,7 @@
     }
     ```
 
-    </details>
 - W. Jin, Y. Cai, R. Kazman, Q. Zheng, D. Cui and T. Liu, "ENRE: A Tool Framework for Extensible eNtity Relation Extraction," 2019 IEEE/ACM 41st International Conference on Software Engineering: Companion Proceedings (ICSE-Companion), 2019, pp. 67-70, doi: 10.1109/ICSE-Companion.2019.00040.
-    <details><summary>BibTeX</summary>
 
     ```
     @INPROCEEDINGS{
@@ -96,9 +90,8 @@
     }
     ```
 
-    </details>
+
 - D. Cui et al., "Investigating the Impact of Multiple Dependency Structures on Software Defects," 2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE), 2019, pp. 584-595, doi: 10.1109/ICSE.2019.00069.
-    <details><summary>BibTeX</summary>
 
     ```
     @INPROCEEDINGS{
@@ -114,9 +107,8 @@
     }
     ```
 
-    </details>
 - W. Jin, T. Liu, Y. Cai, R. Kazman, R. Mo, Q. Zheng. Service Candidate Identification from Monolithic Systems based on Execution Traces. TSE 2019.
-    <details><summary>BibTeX</summary>
+
 
     ```
     @ARTICLE{
@@ -132,4 +124,4 @@
     }
     ```
 
-    </details>
+</details>
