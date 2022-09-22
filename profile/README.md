@@ -24,8 +24,7 @@
 
 ### Cite us
 
-- W. Jin, D. Zhong, Y. Cai, R. Kazman and T. Liu, "Evaluating the Impact of Possible Dependencies on Architecture-level Maintainability," in IEEE Transactions on Software Engineering, doi: 10.1109/TSE.2022.3171288. 
-    <details><summary>BibTeX</summary>
+- W. Jin, D. Zhong, Y. Cai, R. Kazman and T. Liu, "Evaluating the Impact of Possible Dependencies on Architecture-level Maintainability," in IEEE Transactions on Software Engineering, doi: 10.1109/TSE.2022.3171288. <details><summary>BibTeX</summary>
 
     ```
     @ARTICLE{
@@ -41,7 +40,7 @@
     }
     ```
 
-    </details>
+</details>
 
 
 - W. Jin, D. Zhong, Z. Ding, M. Fan and T. Liu, "Where to Start: Studying Type Annotation Practices in Python," 2021 36th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2021, pp. 529-541, doi: 10.1109/ASE51524.2021.9678947.
