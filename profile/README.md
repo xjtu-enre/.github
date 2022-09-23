@@ -15,7 +15,7 @@
 ### Supports
 ⌛️ By doing static analysis, **ENRE** supports the following entities and dependency types.
 
-|  Language  | Maximum Version | #Entity Type |#Entity Type | Tool link |
+|  Language  | Maximum Version | #Entity Type |#Dependency Type | Tool link |
 |:----------:|:---------------:|:------------:|:---------------:|:----:|
 |    Java    |       14        |       11     |    18       | [🔗](https://github.com/xjtu-enre/ENRE-java)|
 |    C++     |       17        |       13    |    14   |[🔗](https://github.com/xjtu-enre/ENRE-cpp)|
