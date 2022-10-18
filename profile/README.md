@@ -21,6 +21,7 @@
 |    C++     |       17        |       13    |    14   |[🔗](https://github.com/xjtu-enre/ENRE-cpp)|
 |    Python  |       3.x       |       9     |    10    |[🔗](https://github.com/xjtu-enre/ENRE-py)
 |    JS/TS    |       2022/4.7       |       17    |    12   |[🔗](https://github.com/xjtu-enre/ENRE-ts)
+|    Golang    |      /       |       8    |    10   |[🔗](https://github.com/xjtu-enre/ENRE-go-python)
 
 <details><summary>Cite us</summary>
 
