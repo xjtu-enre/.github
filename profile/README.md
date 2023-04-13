@@ -3,7 +3,7 @@
 ### WHAT IS ENRE?
 
 🙋‍♀️ 
-**ENRE** supports the extraction of **entities** and their
+**ENRE** , developed by the SE team in Xi'an Jiaotong University, supports the extraction of **entities** and their
 **dependencies** from systems written in multiple languages, enables the customization of dependencies of interest to the user, and makes implicit dependencies explicit. 
 
 ### Features
@@ -25,7 +25,7 @@
 
 <details><summary>Cite us</summary>
 
-- W. Jin, D. Zhong, Y. Cai, R. Kazman and T. Liu, "Evaluating the Impact of Possible Dependencies on Architecture-level Maintainability," in IEEE Transactions on Software Engineering, doi: 10.1109/TSE.2022.3171288. 
+- Wuxia Jin et al., "Evaluating the Impact of Possible Dependencies on Architecture-level Maintainability," in IEEE Transactions on Software Engineering, doi: 10.1109/TSE.2022.3171288. 
 
     ```
     @ARTICLE{
@@ -43,7 +43,7 @@
 
 
 
-- W. Jin, D. Zhong, Z. Ding, M. Fan and T. Liu, "Where to Start: Studying Type Annotation Practices in Python," 2021 36th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2021, pp. 529-541, doi: 10.1109/ASE51524.2021.9678947.
+-Wuxia Jin, et al., "Where to Start: Studying Type Annotation Practices in Python," 2021 36th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2021, pp. 529-541, doi: 10.1109/ASE51524.2021.9678947.
 
     ```
     @INPROCEEDINGS{
@@ -59,7 +59,7 @@
     }
     ```
 
-- Jin, Wuxia et al. “Exploring the Architectural Impact of Possible Dependencies in Python Software.” 2020 35th IEEE/ACM International Conference on Automated Software Engineering (ASE) (2020): 758-770.
+- Wuxia Jin et al. “Exploring the Architectural Impact of Possible Dependencies in Python Software.” 2020 35th IEEE/ACM International Conference on Automated Software Engineering (ASE) (2020): 758-770.
 
     ```
     @INPROCEEDINGS{
@@ -75,7 +75,7 @@
     }
     ```
 
-- W. Jin, Y. Cai, R. Kazman, Q. Zheng, D. Cui and T. Liu, "ENRE: A Tool Framework for Extensible eNtity Relation Extraction," 2019 IEEE/ACM 41st International Conference on Software Engineering: Companion Proceedings (ICSE-Companion), 2019, pp. 67-70, doi: 10.1109/ICSE-Companion.2019.00040.
+- Wuxia Jin et al., "ENRE: A Tool Framework for Extensible eNtity Relation Extraction," 2019 IEEE/ACM 41st International Conference on Software Engineering: Companion Proceedings (ICSE-Companion), 2019, pp. 67-70, doi: 10.1109/ICSE-Companion.2019.00040.
 
     ```
     @INPROCEEDINGS{
@@ -92,23 +92,7 @@
     ```
 
 
-- D. Cui et al., "Investigating the Impact of Multiple Dependency Structures on Software Defects," 2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE), 2019, pp. 584-595, doi: 10.1109/ICSE.2019.00069.
-
-    ```
-    @INPROCEEDINGS{
-        8812092,
-        author={Cui, Di and Liu, Ting and Cai, Yuanfang and Zheng, Qinghua and Feng, Qiong and Jin, Wuxia and Guo, Jiaqi and Qu, Yu},
-        booktitle={2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE)}, 
-        title={Investigating the Impact of Multiple Dependency Structures on Software Defects}, 
-        year={2019},
-        volume={},
-        number={},
-        pages={584-595},
-        doi={10.1109/ICSE.2019.00069}
-    }
-    ```
-
-- W. Jin, T. Liu, Y. Cai, R. Kazman, R. Mo, Q. Zheng. Service Candidate Identification from Monolithic Systems based on Execution Traces. TSE 2019.
+- Wuxia Jin et al., Service Candidate Identification from Monolithic Systems based on Execution Traces. TSE 2019.
 
 
     ```
