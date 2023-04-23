@@ -1,5 +1,10 @@
 ## ENRE
 
+> **IMPORTANT LICENSING UPDATE**
+> At April 23, 2023, ENRE updated its license model to a *duel license model*:
+>   * Any open-source usages that use or distribute open source applications under the LGPL can use the LGPL-licensed ENRE;
+>   * Commercial redistributions should contact us to obtain a commertial license first.
+
 ### WHAT IS ENRE?
 
 🙋‍♀️ 
